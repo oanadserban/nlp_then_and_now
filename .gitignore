@@ -1,0 +1,5 @@
+.DS_Store
+/data/raw/consumer_complaints.csv
+.ipynb_checkpoints
+ipython_config.py
+*.log
